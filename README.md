@@ -7,6 +7,8 @@ Hi, I'm <b>Shaurya</b>. I have interests in <b>Machine Learning, specifically Re
 
 🥇 Recently **Won** the **HPE Data Science Hackathon** at the 7th Annual Business Analytics Symposium, presenting an Optimal Marketing Budget Allocation System through the application of Gradient Boosted models, Bayesian Statistics, and **Genetic ALgorithms** {[LINK](https://jindal.utdallas.edu/news/jindal-school-takes-first-place-in-two-recent-competitions/#content2)}
 
+🏆 Currently ranked 55 out of 1200 teams in the ICR- Identigying Age-Related Conditions Kaggle Competition
+
 🤖 Researching and learning **Reinforcement Learning** systems with application in **Recommendation Systems**. Developed a Music Recommender System using Deep Q-Learning and Actor-Critic model, acheiving a diverse selection of music (9.3% vs 7.6%) and better identification of songs skipped by users (49% vs 54%) {[LINK](https://github.com/shauryat1298/Deep-Reinforcement-Learning-for-Music-Recommendation)}
 
 📢 Developed a transparent and interpretable **Click Through Rate (CTR) prediction system** able to identify high importance features running on lower computational requirements using **Transformers** with Multi-head Self-Attention and Hierarchical Attention layers [LINK](https://github.com/shauryat1298/CTR-Prediction-using-Attention-Transformers)
