@@ -3,7 +3,7 @@
 Hi, I'm <b>Shaurya</b>. I have interests in <b>Machine Learning, specifically Reinforcement Learning, NLP, and Recommender Systems</b>. Moreover, I play Table Tennis 🏓 and listen to Piano 🎹 and other musical instruments.
 
 ## Highlights
-👨‍🎓 Currently I'm a MS student in Business Analytics (Deep Learning Specialisation) at The University of Texas at Dallas. Completed **B. Tech.** in **Information Technology** from **Delhi Technological University**
+👨‍🎓 I'm a MS graduate in Data Science (Deep Learning Specialisation) at The University of Texas at Dallas. Completed **B. Tech.** in **Computer Science** from **Delhi Technological University**
 
 🥇 Recently **Won** the **HPE Data Science Hackathon** at the 7th Annual Business Analytics Symposium, presenting an Optimal Marketing Budget Allocation System through the application of Gradient Boosted models, Bayesian Statistics, and **Genetic ALgorithms** {[LINK](https://jindal.utdallas.edu/news/jindal-school-takes-first-place-in-two-recent-competitions/#content2)}
 
